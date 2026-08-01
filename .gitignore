@@ -159,6 +159,13 @@ env.bak/
 venv.bak/
 gp1env/
 
+
+# Model artifacts
+artifacts/
+
+# CatBoost logs
+catboost_info/
+
 # Spyder project settings
 .spyderproject
 .spyproject
